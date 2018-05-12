@@ -1,4 +1,8 @@
 _repo: On-Cambrian-and-Cumbrian-Hills-Pilgrimages-to-Snowdon-and-Scafell_48700
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48700-h/images/cover.jpg
 creator:
   author:
     agent_name: Salt, Henry S.
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '36994'
     url: http://www.gutenberg.org/2009/agents/36994
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48700#On-Cambrian-and-Cumbrian-Hills-Pilgrimages-to-Snowdon-and-Scafell
 gutenberg_issued: '2015-04-13'
 gutenberg_type: Text
 identifiers:
